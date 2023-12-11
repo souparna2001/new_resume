@@ -1,0 +1,9 @@
+.row{
+    width:100%;
+    height:1000px;
+} 
+
+.card{
+    box-shadow:0 5px 10px black;
+    border: 1px solid black;
+}
